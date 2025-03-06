@@ -1,9 +1,9 @@
 # Quantitative-Investment-Analysis
-# Quantitative Investment Analysis: Consumer Discretionary Sector
+
 
 ## Overview
 
-This repository contains a Jupyter notebook focused on quantitative analysis of stocks in the consumer discretionary sector. The analysis combines financial data retrieval, exploratory data analysis, and machine learning techniques to provide insights into stock performance and potential predictive factors.
+This repository contains Jupyter notebook focused on quantitative analysis of stocks. The analysis combines financial data retrieval, exploratory data analysis, and machine learning techniques to provide insights into stock performance and potential predictive factors.
 
 ## Key Features
 
